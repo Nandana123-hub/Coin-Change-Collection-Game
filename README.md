@@ -45,20 +45,8 @@ An interactive game built with Python and Streamlit that challenges users to use
    cd coin-change-game
 
 Install dependencies:
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Or manually:
-
-bash
-Copy
-Edit
 pip install streamlit streamlit-extras
 Run the app:
-
-bash
-Copy
-Edit
 py -m streamlit run app.py
