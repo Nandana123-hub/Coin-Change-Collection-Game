@@ -1,0 +1,4 @@
+to run the script:
+               py -m streamlit run app.py
+to install libraries:
+               py -m pip install streamlit streamlit-extras 
